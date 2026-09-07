@@ -1,0 +1,7 @@
+{
+  "exit": 0,
+  "stdout": "{\n  \"type\": \"https://example.com/problems/invalid-total\",\n  \"title\": \"Invalid order total\",\n  \"status\": 400,\n  \"detail\": \"Cannot coerce String (12.5O) to Number\",\n  \"instance\": \"/orders/ORD-2001\",\n  \"errorKind\": \"InvalidNumberException\"\n}",
+  "stderr": "WARNING: A terminally deprecated method in sun.misc.Unsafe has been called\nWARNING: sun.misc.Unsafe::getLong has been called by io.netty.util.internal.PlatformDependent0$4 (file:/home/santhaparv/test-pad/autonomous-pipeline/bin/dw-cli-2.12.0/bin/dw)\nWARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$4\nWARNING: sun.misc.Unsafe::getLong will be removed in a future release\n",
+  "duration_ms": 90,
+  "artifacts": []
+}
