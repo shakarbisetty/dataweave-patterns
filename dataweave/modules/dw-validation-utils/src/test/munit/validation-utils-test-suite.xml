@@ -233,7 +233,7 @@
                         import modules::ValidationUtils
                         output application/json
                         ---
-                        ValidationUtils::matchesPattern("ABC-123", "^[A-Z]{3}-\\d{3}$", "code")
+                        ValidationUtils::matchesPattern("ABC-123", "^[A-Z]{3}-\\d{3}\$", "code")
                     ]]></ee:set-payload>
                 </ee:message>
             </ee:transform>
@@ -255,7 +255,7 @@
                         import modules::ValidationUtils
                         output application/json
                         ---
-                        ValidationUtils::matchesPattern("abc123", "^[A-Z]{3}-\\d{3}$", "code")
+                        ValidationUtils::matchesPattern("abc123", "^[A-Z]{3}-\\d{3}\$", "code")
                     ]]></ee:set-payload>
                 </ee:message>
             </ee:transform>
