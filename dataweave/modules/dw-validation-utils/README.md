@@ -61,4 +61,4 @@ All validation functions return a consistent format:
 
 ## Tests
 
-30 MUnit tests covering all 12 functions including edge cases for date validation, boundary values, and format mismatches.
+28 MUnit test cases in `src/test/munit/validation-utils-test-suite.xml` covering the 12 functions. NOT wired to run: the pom declares no MUnit plugin, so `mvn clean test` reports "No tests to run" (verified 2026-09-08).
