@@ -1,0 +1,7 @@
+{
+  "exit": 0,
+  "stdout": "{\n  \"valid\": false,\n  \"errors\": [\n    {\n      \"valid\": false,\n      \"field\": \"name\",\n      \"error\": \"name must be at least 3 characters\"\n    },\n    {\n      \"valid\": false,\n      \"field\": \"age\",\n      \"error\": \"age must be between 18 and 99\"\n    }\n  ]\n}",
+  "stderr": "WARNING: A terminally deprecated method in sun.misc.Unsafe has been called\nWARNING: sun.misc.Unsafe::getLong has been called by io.netty.util.internal.PlatformDependent0$4 (file:/home/santhaparv/test-pad/autonomous-pipeline/bin/dw-cli-2.12.0/bin/dw)\nWARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$4\nWARNING: sun.misc.Unsafe::getLong will be removed in a future release\n",
+  "duration_ms": 89,
+  "artifacts": []
+}
