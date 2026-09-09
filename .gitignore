@@ -1,0 +1,2 @@
+# build outputs never commit (reviewer ruling A2, 2026-09-09)
+**/target/

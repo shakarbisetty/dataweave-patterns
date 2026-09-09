@@ -310,7 +310,7 @@ Reusable DataWeave utility libraries — import via Maven, no copy-paste needed.
 | [`dw-collection-utils`](modules/dw-collection-utils/) | 19 | 34 | Collection utilities (chunk, deepMerge, sliding, zip, transpose, etc.) |
 | [`dw-error-handler`](modules/dw-error-handler/) | 10 | 25 | Error handling (classifyError, isRetryable, toRFC7807, errorChain, etc.) |
 | [`dw-xml-helpers`](modules/dw-xml-helpers/) | 12 | 27 | XML utilities (stripNamespaces, xpathLike, soapEnvelope, xmlToString, etc.) |
-| [`dw-validation-utils`](modules/dw-validation-utils/) | 12 | 30 | Validation (isRequired, matchesPattern, validateAll, isUUID, etc.) |
+| [`dw-validation-utils`](modules/dw-validation-utils/) | 12 | 28 | Validation (isRequired, matchesPattern, validateAll, isUUID, etc.) |
 | [`dw-api-utils`](modules/dw-api-utils/) | 10 | 26 | API response helpers (paginate, buildLinks, filterFields, addETag, etc.) |
 
 ---

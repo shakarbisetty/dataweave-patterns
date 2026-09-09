@@ -1,9 +1,0 @@
-{
-  "records": [
-    { "id": "ORD-1001", "email": "ana@example.com" },
-    { "id": "ORD-1002", "email": "bad-address" },
-    { "id": "ORD-1003", "email": "raj@example.org" },
-    { "id": "ORD-1004" },
-    { "id": "ORD-1005", "email": "mei@example.net" }
-  ]
-}
