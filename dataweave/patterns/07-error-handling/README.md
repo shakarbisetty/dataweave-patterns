@@ -12,6 +12,7 @@ Robust integrations don't break on bad data — they handle it gracefully. These
 | 2 | Try Pattern | [`try-pattern.dwl`](try-pattern.dwl) | Intermediate | Attempt operations with graceful error handling |
 | 3 | Error Response Builder | [`error-response-builder.dwl`](error-response-builder.dwl) | Intermediate | Build standardized API error responses |
 | 4 | Conditional Error | [`conditional-error.dwl`](conditional-error.dwl) | Intermediate | Validate input and handle errors by business rules |
+| 5 | RFC 7807 error envelope in DataWeave | [`rfc-7807-error-envelope-in-dataweave/rfc-7807-error-envelope-in-dataweave.dwl`](rfc-7807-error-envelope-in-dataweave/rfc-7807-error-envelope-in-dataweave.dwl) | Intermediate | The documentation describes `try` as a function that returns a Result object for handling errors |
 
 ---
 

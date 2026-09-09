@@ -164,6 +164,7 @@ No install. No dependencies. Just working DataWeave.
 | Conditional Error | [`conditional-error.dwl`](patterns/07-error-handling/conditional-error.dwl) | Intermediate |
 | Retry Backoff Config | [`retry-backoff-config.dwl`](patterns/07-error-handling/retry-backoff-config.dwl) | Advanced |
 | Batch Error Analysis | [`batch-error-handler.dwl`](patterns/07-error-handling/batch-error-handler.dwl) | Advanced |
+| RFC 7807 error envelope in DataWeave | [`rfc-7807-error-envelope-in-dataweave.dwl`](patterns/07-error-handling/rfc-7807-error-envelope-in-dataweave/rfc-7807-error-envelope-in-dataweave.dwl) | Intermediate |
 
 ### 08 — Date/Time
 
