@@ -3,7 +3,7 @@
  * Category: Array Manipulation
  * Difficulty: Intermediate
  *
- * Description: The Arrays module must be imported to your DataWeave code by adding the line `import * from dw::core::Arrays` to the header of your DataWeave script. I add the explicit import statement to every DataWeave script that uses array functions before writing any logic.
+ * Description: The Arrays module must be imported to your DataWeave code by adding the line `import * from dw::core::Arrays` to the header of your DataWeave script. I add `import * from dw::core::Arrays` to the DataWeave header before using `partition`.
  *
  * Input (application/json):
  * {
