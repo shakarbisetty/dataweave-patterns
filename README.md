@@ -14,7 +14,7 @@
 
 | Section | What You Get | Recipes |
 |---------|-------------|---------|
-| [**DataWeave**](dataweave/) | Transformation patterns, Exchange modules, cheatsheet, anti-patterns | 102 |
+| [**DataWeave**](dataweave/) | Transformation patterns, Exchange modules, cheatsheet, anti-patterns | 103 |
 | [**Error Handling**](error-handling/) | Global handlers, retry/circuit breaker, DLQ, transactions, notifications | 51 |
 | [**Performance**](performance/) | Streaming, memory tuning, batch optimization, caching, thread pools | 49 |
 | [**API Management**](api-management/) | Flex Gateway, custom policies, rate limiting, security, governance | 57 |
@@ -47,13 +47,13 @@ payload filter $.status == "active"
     }
 ```
 
-Browse all 102 patterns: **[dataweave/](dataweave/)**
+Browse all 103 patterns: **[dataweave/](dataweave/)**
 
 ---
 
 ## Table of Contents
 
-### DataWeave Patterns (102)
+### DataWeave Patterns (103)
 
 | Category | Patterns | Difficulty |
 |----------|----------|-----------|
@@ -63,7 +63,7 @@ Browse all 102 patterns: **[dataweave/](dataweave/)**
 | [Type Coercion](dataweave/patterns/04-type-coercion/) | 4 | Beginner to Advanced |
 | [XML Handling](dataweave/patterns/05-xml-handling/) | 7 | Intermediate to Advanced |
 | [CSV Operations](dataweave/patterns/06-csv-operations/) | 4 | Beginner to Intermediate |
-| [Error Handling](dataweave/patterns/07-error-handling/) | 6 | Beginner to Advanced |
+| [Error Handling](dataweave/patterns/07-error-handling/) | 7 | Beginner to Advanced |
 | [Date/Time](dataweave/patterns/08-date-time/) | 4 | Beginner to Intermediate |
 | [Advanced Patterns](dataweave/patterns/09-advanced-patterns/) | 9 | Advanced |
 | [Real-World Mappings](dataweave/patterns/10-real-world-mappings/) | 6 | Intermediate to Advanced |
