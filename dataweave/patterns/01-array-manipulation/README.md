@@ -16,6 +16,7 @@ The most fundamental DataWeave operations. Arrays are everywhere in integration 
 | 6 | Order By | [`order-by.dwl`](order-by.dwl) | Beginner | Sort objects by one or more fields |
 | 7 | Reduce / Accumulate | [`reduce-accumulate.dwl`](reduce-accumulate.dwl) | Advanced | Aggregate values into a single result |
 | 8 | Zip Arrays | [`zip-arrays.dwl`](zip-arrays.dwl) | Intermediate | Combine two arrays element-wise |
+| 9 | DataWeave partition() for bulk API responses | [`dataweave-partition-for-bulk-api-responses/dataweave-partition-for-bulk-api-responses.dwl`](dataweave-partition-for-bulk-api-responses/dataweave-partition-for-bulk-api-responses.dwl) | Intermediate | The Arrays module must be imported to your DataWeave code by adding the line `import * from dw::core::Arrays` to the header of your DataWeave script |
 
 ---
 
