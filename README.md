@@ -14,7 +14,7 @@
 
 | Section | What You Get | Recipes |
 |---------|-------------|---------|
-| [**DataWeave**](dataweave/) | Transformation patterns, Exchange modules, cheatsheet, anti-patterns | 103 |
+| [**DataWeave**](dataweave/) | Transformation patterns, Exchange modules, cheatsheet, anti-patterns | 104 |
 | [**Error Handling**](error-handling/) | Global handlers, retry/circuit breaker, DLQ, transactions, notifications | 51 |
 | [**Performance**](performance/) | Streaming, memory tuning, batch optimization, caching, thread pools | 49 |
 | [**API Management**](api-management/) | Flex Gateway, custom policies, rate limiting, security, governance | 57 |
@@ -47,17 +47,17 @@ payload filter $.status == "active"
     }
 ```
 
-Browse all 103 patterns: **[dataweave/](dataweave/)**
+Browse all 104 patterns: **[dataweave/](dataweave/)**
 
 ---
 
 ## Table of Contents
 
-### DataWeave Patterns (103)
+### DataWeave Patterns (104)
 
 | Category | Patterns | Difficulty |
 |----------|----------|-----------|
-| [Array Manipulation](dataweave/patterns/01-array-manipulation/) | 9 | Beginner to Advanced |
+| [Array Manipulation](dataweave/patterns/01-array-manipulation/) | 10 | Beginner to Advanced |
 | [Object Transformation](dataweave/patterns/02-object-transformation/) | 7 | Beginner to Advanced |
 | [String Operations](dataweave/patterns/03-string-operations/) | 6 | Beginner to Intermediate |
 | [Type Coercion](dataweave/patterns/04-type-coercion/) | 4 | Beginner to Advanced |

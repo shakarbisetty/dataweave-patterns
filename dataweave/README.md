@@ -100,6 +100,7 @@ No install. No dependencies. Just working DataWeave.
 | Reduce/Accumulate | [`reduce-accumulate.dwl`](patterns/01-array-manipulation/reduce-accumulate.dwl) | Advanced |
 | Zip Arrays | [`zip-arrays.dwl`](patterns/01-array-manipulation/zip-arrays.dwl) | Intermediate |
 | Sliding Window | [`sliding-window.dwl`](patterns/01-array-manipulation/sliding-window.dwl) | Advanced |
+| DataWeave partition() for bulk API responses | [`dataweave-partition-for-bulk-api-responses.dwl`](patterns/01-array-manipulation/dataweave-partition-for-bulk-api-responses/dataweave-partition-for-bulk-api-responses.dwl) | Intermediate |
 
 ### 02 — Object Transformation
 
