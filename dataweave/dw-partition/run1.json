@@ -1,7 +1,0 @@
-{
-  "exit": 0,
-  "stdout": "{\n  \"accepted\": [\n    \"ORD-1001\",\n    \"ORD-1003\",\n    \"ORD-1005\"\n  ],\n  \"rejected\": [\n    {\n      \"id\": \"ORD-1002\",\n      \"reason\": \"missing or invalid email\"\n    },\n    {\n      \"id\": \"ORD-1004\",\n      \"reason\": \"missing or invalid email\"\n    }\n  ],\n  \"retryCount\": 2\n}",
-  "stderr": "WARNING: A terminally deprecated method in sun.misc.Unsafe has been called\nWARNING: sun.misc.Unsafe::getLong has been called by io.netty.util.internal.PlatformDependent0$4 (file:/home/santhaparv/test-pad/autonomous-pipeline/bin/dw-cli-2.12.0/bin/dw)\nWARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$4\nWARNING: sun.misc.Unsafe::getLong will be removed in a future release\n",
-  "duration_ms": 104,
-  "artifacts": []
-}

@@ -59,6 +59,14 @@ All validation functions return a consistent format:
 { "valid": false, "errors": [{ "valid": false, "field": "name", "error": "..." }] }
 ```
 
-## Tests
+## Testing
 
-28 MUnit test cases in `src/test/munit/validation-utils-test-suite.xml` covering the 12 functions. NOT wired to run: the pom declares no MUnit plugin, so `mvn clean test` reports "No tests to run" (verified 2026-09-08).
+28 MUnit test cases covering all 12 functions with basic, edge, and boundary inputs (date formats, range boundaries, pattern mismatches, allowed-value sets).
+
+```bash
+mvn clean test
+```
+
+## License
+
+[MIT](../../LICENSE)

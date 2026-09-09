@@ -1,7 +1,0 @@
-{
-  "exit": 255,
-  "stdout": "",
-  "stderr": "WARNING: A terminally deprecated method in sun.misc.Unsafe has been called\nWARNING: sun.misc.Unsafe::getLong has been called by io.netty.util.internal.PlatformDependent0$4 (file:/home/santhaparv/test-pad/autonomous-pipeline/bin/dw-cli-2.12.0/bin/dw)\nWARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$4\nWARNING: sun.misc.Unsafe::getLong will be removed in a future release\n\u001b[31m[ERROR] Error while executing the script:\u001b[0m\n\u001b[31m[ERROR] Unable to resolve reference of: `ValidationUtils::validateAll`.\n\n4| ValidationUtils::validateAll(payload, {\n   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nLocation:\nfail_missingimport (line: 4, column:1)\u001b[0m\n",
-  "duration_ms": 30,
-  "artifacts": []
-}
